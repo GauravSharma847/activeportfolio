@@ -1,0 +1,67 @@
+{
+  "projects": [
+    {
+      "date": "07/05/2022",
+      "title": "Jira Ticket Management Clone",
+      "description": "Created a ticket management clone that offers features like CRUD, changing priorities, filter by colors, locking and unlocking.                        Tech Stack : NodeJs, Plain CSS",
+      "url": "https://gauravsharma847.github.io/JeeraApp/",
+      "imgSrc": "https://placid.app/u/uzhd1?hl=Jira%20Clone&subline=Showcase%20Project%20Repo&img=%24PIC%24https%3A%2F%2Fmadewithnetworkfra.fra1.digitaloceanspaces.com%2Fspatie-space-production%2F11430%2Fjira-clone.jpg"
+    },
+    {
+      "date": "11/07/2022",
+      "title": "Excel Clone",
+      "description": "Created a web version Excel, it contains features like changing font-size, font-style, text-alignment, formula calculation etc.(Vanilla JS , HTML, CSS)",
+      "url": "https://gauravsharma847.github.io/Excel_Clone/",
+      "imgSrc": "https://deskbright-media.s3.amazonaws.com/static/cms/images/articles/excel/what-is-excel/image1.jpg"
+    },
+    {
+      "date": "15/08/2022",
+      "title": "TECHY STAR",
+      "description": "It's a simple react frontend project which depicts one page application without reloading. Tech Stack :(JavaScript, SASS)",
+      "url": " https://projectone-two.vercel.app",
+      "imgSrc": "https://miro.medium.com/max/632/1*k5UMQaxLSyo27OEYEb5aAw.png"
+    },
+    {
+      "date": "15/08/2022",
+      "title": "Movie App",
+      "description": "Used React, TMDB API to make a movie App clone. It contains features like searching , sorting, pagination, local storage was used to sync data across pages. React Route DOM was used for navigation",
+      "url": "https://movies-imdb-45ca8.web.app/home",
+      "imgSrc": "https://www.androidauthority.com/wp-content/uploads/2019/06/Tubi-best-movie-apps-for-Android.jpg"
+    }, 
+    {
+      "date": "11/10/2022",
+      "title": "VIDEO HUB",
+      "description": "Its a simple react frontend project to showcase development of youtube like Video Player. It depicts a main player page, contact page etc Tech Stack:(JavaScript, ChakraUI ,etc) ",
+      "url": "https://chakra-ui-frontend-react.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
+    },
+    {
+      "date": "15/10/2022",
+      "title": "Crypto App",
+      "description": "This React frontend App gives the data of Crypto Coins , I have used API's to get data about crypto coins Tech Stack:(JavaScript,Reactjs,ChakraUI, few other pakages)",
+      "url": "https://cryptoapp-zeta.vercel.app",
+      "imgSrc": "https://cdn.pixabay.com/photo/2017/12/12/12/44/bitcoin-3014614_960_720.jpg"
+    },
+    {
+      "date": "17/10/2022",
+      "title": "REACT CART",
+      "description": "Its a simple project on Cart System to depict working of React-Redux, it puts the data from Home page to cart page and has functionality to delete data from cart page , plus it also calculates the amount",
+      "url": "https://reactcart-kappa.vercel.app/cart",
+      "imgSrc": "https://cdn.pixabay.com/photo/2019/12/14/08/36/shopping-4694470_960_720.jpg"
+    },
+    {
+      "date": "03/01/2023",
+      "title": "LINKEDIN CLONE",
+      "description": "Its a Linked Clone made using Reactjs and firebase . It has features like Register, LogIn,LogOut,Posting etc",
+      "url": "https://linkedin-clone-2d56f.web.app/",
+      "imgSrc": "https://blog.linkedin.com/content/dam/blog/en-us/corporate/blog/2018/april/Top_Card.jpg"
+    },
+    {
+      "date": "20/02/2023",
+      "title": "PORTFOLIO",
+      "description": "This project is my  portfolio itself . I have used Firebase to store data from Contact Page, Tech Stack:(React,JavaScript , packages like framer-motion, Carousel etc.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    }
+  ]
+}

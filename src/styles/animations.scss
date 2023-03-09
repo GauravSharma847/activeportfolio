@@ -1,0 +1,17 @@
+@keyframes animateSvg{
+    to{
+        transform: translate(-50%, -10px)  // it makes downward arrow movable
+    }
+}
+
+@keyframes upanddown {
+    to{
+        transform: translateY(-5px) ;
+    }
+}
+
+@keyframes upupdowndown {
+    to{
+        transform: translateY(-10px) ;
+    }
+}
